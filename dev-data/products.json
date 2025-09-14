@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Men's Styling",
+    "price": 6,
+    "image": "./img/IMG_6311.JPG",
+    "difficulty": "Medium"
+  },
+  {
+    "name": "Lady's Styling",
+    "price": 6,
+    "image": "./img/IMG_6311.JPG",
+    "difficulty": "Medium"
+  },
+  {
+    "name": "Partner work classes",
+    "price": 6,
+    "image": "./img/IMG_6311.JPG",
+    "difficulty": "Medium"
+  },
+  {
+    "name": "Uni performance Team",
+    "price": 6,
+    "image": "./img/IMG_6311.JPG",
+    "difficulty": "Medium"
+  },
+  {
+    "name": "Performance Team",
+    "price": 6,
+    "image": "./img/IMG_6311.JPG",
+    "difficulty": "Medium"
+  },
+  {
+    "name": "Men's Styling Student",
+    "price": 6,
+    "image": "./img/IMG_6311.JPG",
+    "difficulty": "Medium"
+  },
+  {
+    "name": "Women's Styling Student",
+    "price": 6,
+    "image": "./img/IMG_6311.JPG",
+    "difficulty": "Medium"
+  },
+  {
+    "name": "Partner work Student",
+    "price": 6,
+    "image": "./img/IMG_6311.JPG",
+    "difficulty": "Medium"
+  }
+]
